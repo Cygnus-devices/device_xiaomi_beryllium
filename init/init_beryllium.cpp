@@ -59,5 +59,5 @@ void vendor_load_properties()
 {
     // fingerprint
     property_override("ro.build.description", "beryllium-user 9 PKQ1.180729.001 V10.2.3.0.PEJMIXM release-keys");
-    property_override_dual("ro.build.fingerprint", "ro.vendor.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
+    property_override_dual("ro.build.fingerprint", "ro.vendor.build.fingerprint", "google/coral/coral:10/QQ1B.200105.004/6031802:user/release-keys");
 }
