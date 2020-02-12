@@ -14,4 +14,8 @@
     "target_path": "vendor/xiaomi",
     "branch": "ten",
   }
+  {
+    "repository": "vendor_xiaomi_firmware_beryllium",
+    "target_path": "vendor/xiaomi/beryllium/firmware",
+    "branch": "ten",
 ]
