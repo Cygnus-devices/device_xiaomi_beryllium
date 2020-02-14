@@ -15,7 +15,9 @@
     "branch": "ten",
   }
   {
-    "repository": "vendor_xiaomi_firmware_beryllium",
+    "remote": "gitlab"
+    "repository": "cygnus-devices-gitlab/vendor_xiaomi_firmware_beryllium",
     "target_path": "vendor/xiaomi/beryllium/firmware",
     "branch": "ten",
+  }
 ]
