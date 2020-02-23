@@ -8,7 +8,7 @@
 -include device/xiaomi/sdm845-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/xiaomi/beryllium
-
+TARGET_KERNEL_CLANG_COMPILE := true
 # Assert
 TARGET_OTA_ASSERT_DEVICE := beryllium
 

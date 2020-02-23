@@ -8,8 +8,8 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
 # Inherit some common CygnusOS stuff.
 TARGET_INCLUDE_WIFI_EXT := true
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
-
+$(call inherit-product, vendor/cygnus/configs/common.mk)
+include device/qcom/common/common.mk
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := cygnus_beryllium
 PRODUCT_DEVICE := beryllium
