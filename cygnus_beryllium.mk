@@ -5,6 +5,7 @@
 #
 
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
+$(call inherit-product, device/qcom/common/common.mk)
 
 # Inherit some common CygnusOS stuff.
 TARGET_INCLUDE_WIFI_EXT := true
