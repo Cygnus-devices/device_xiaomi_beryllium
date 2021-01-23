@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_beryllium.mk
+    $(LOCAL_DIR)/cygnus_beryllium.mk
