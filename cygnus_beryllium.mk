@@ -10,6 +10,7 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_WIFI_EXT := true
 $(call inherit-product, vendor/cygnus/configs/common.mk)
+$(call inherit-product, device/qcom/common/common.mk)
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := cygnus_beryllium
