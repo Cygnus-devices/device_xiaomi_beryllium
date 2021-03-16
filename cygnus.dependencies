@@ -1,6 +1,12 @@
 [
   {
     "remote": "Cygnus-devices",
+    "repository": "packages_resources_devicesettings-custom",
+    "target_path": "packages/resources/devicesettings-custom",
+    "branch": "caf-11"
+  },
+  {
+    "remote": "Cygnus-devices",
     "repository": "device_xiaomi_beryllium",
     "target_path": "device/xiaomi/beryllium",
     "branch": "caf-11"
