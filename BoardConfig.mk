@@ -25,6 +25,7 @@ TARGET_SCREEN_DENSITY := 440
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/xiaomi/beryllium
 TARGET_KERNEL_CONFIG := beryllium_defconfig
+KERNEL_SUPPORTS_LLVM_TOOLS := true
 
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
