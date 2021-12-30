@@ -3,19 +3,25 @@
     "remote": "Cygnus-devices",
     "repository": "packages_resources_devicesettings-custom",
     "target_path": "packages/resources/devicesettings-custom",
-    "branch": "caf-11"
+    "branch": "caf-12"
+  },
+  {
+    "remote": "Cygnus-devices",
+    "repository": "device_xiaomi_extras",
+    "target_path": "device/xiaomi/extras",
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "device_xiaomi_beryllium",
     "target_path": "device/xiaomi/beryllium",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
@@ -27,13 +33,13 @@
     "remote": "Cygnus-devices",
     "repository": "vendor_xiaomi_beryllium",
     "target_path": "vendor/xiaomi/beryllium",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "vendor_xiaomi_sdm845-common",
     "target_path": "vendor/xiaomi/sdm845-common",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "gitlab",
@@ -45,24 +51,24 @@
     "remote": "Cygnus-devices",
     "repository": "hardware_qcom_media",
     "target_path": "hardware/qcom/media",
-    "branch": "caf-11-sdm845"
+    "branch": "caf-12-sdm845"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "hardware_xiaomi",
     "target_path": "hardware/xiaomi",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "hardware_qcom_display",
     "target_path": "hardware/qcom/display",
-    "branch": "caf-11-sdm845"
+    "branch": "caf-12-sdm845"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "vendor_qcom_opensource_audio-hal_primary-hal",
     "target_path": "vendor/qcom/opensource/audio-hal/primary-hal",
-    "branch": "caf-11-sdm845"
+    "branch": "caf-12-sdm845"
   }
 ]
