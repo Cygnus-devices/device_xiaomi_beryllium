@@ -21,6 +21,8 @@ PRODUCT_MANUFACTURER := Xiaomi
 WITH_GAPPS := true
 CYGNUS_BUILD_TYPE := OFFICIAL
 
+BUILD_FINGERPRINT := "Xiaomi/beryllium/beryllium:10/QKQ1.190828.002/V12.0.2.0.QEJMIXM:user/release-keys"
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="beryllium-user 10 QKQ1.190828.002 V12.0.2.0.QEJMIXM release-keys" \
     PRODUCT_NAME="beryllium"
