@@ -27,7 +27,7 @@
     "remote": "Cygnus-devices",
     "repository":  "kernel_xiaomi_beryllium",
     "target_path": "kernel/xiaomi/beryllium",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
