@@ -1,43 +1,43 @@
 [
   {
-    "remote": "Cygnus-devices",
-    "repository": "packages_resources_devicesettings-custom",
+    "remote": "github",
+    "repository": "Cygnus-devices/packages_resources_devicesettings-custom",
     "target_path": "packages/resources/devicesettings-custom",
     "branch": "caf-12"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository": "device_xiaomi_extras",
+    "remote": "github",
+    "repository": "Cygnus-devices/device_xiaomi_extras",
     "target_path": "device/xiaomi/extras",
     "branch": "caf-12"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository": "device_xiaomi_beryllium",
+    "remote": "github",
+    "repository": "Cygnus-devices/device_xiaomi_beryllium",
     "target_path": "device/xiaomi/beryllium",
     "branch": "caf-12"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository": "device_xiaomi_sdm845-common",
+    "remote": "github",
+    "repository": "Cygnus-devices/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
     "branch": "caf-12"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository":  "kernel_xiaomi_beryllium",
+    "remote": "github",
+    "repository":  "Cygnus-devices/kernel_xiaomi_beryllium",
     "target_path": "kernel/xiaomi/beryllium",
     "branch": "caf-12"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository": "vendor_xiaomi_beryllium",
+    "remote": "github",
+    "repository": "Cygnus-devices/vendor_xiaomi_beryllium",
     "target_path": "vendor/xiaomi/beryllium",
     "branch": "caf-12"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository": "vendor_xiaomi_sdm845-common",
+    "remote": "github",
+    "repository": "Cygnus-devices/vendor_xiaomi_sdm845-common",
     "target_path": "vendor/xiaomi/sdm845-common",
     "branch": "caf-12"
   },
@@ -48,20 +48,20 @@
     "branch": "caf-11"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository": "hardware_qcom_media",
+    "remote": "github",
+    "repository": "Cygnus-devices/hardware_qcom_media",
     "target_path": "hardware/qcom/media",
     "branch": "caf-12-sdm845"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository": "hardware_xiaomi",
+    "remote": "github",
+    "repository": "Cygnus-devices/hardware_xiaomi",
     "target_path": "hardware/xiaomi",
     "branch": "caf-12"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository": "hardware_qcom_display",
+    "remote": "github",
+    "repository": "Cygnus-devices/hardware_qcom_display",
     "target_path": "hardware/qcom/display",
     "branch": "caf-12-sdm845"
   },
