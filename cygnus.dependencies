@@ -51,7 +51,7 @@
     "remote": "github",
     "repository": "Cygnus-devices/hardware_qcom_media",
     "target_path": "hardware/qcom/media",
-    "branch": "caf-12-sdm845"
+    "branch": "caf-13-sdm845"
   },
   {
     "remote": "github",
@@ -63,12 +63,12 @@
     "remote": "github",
     "repository": "Cygnus-devices/hardware_qcom_display",
     "target_path": "hardware/qcom/display",
-    "branch": "caf-12-sdm845"
+    "branch": "caf-13-sdm845"
   },
   {
     "remote": "github",
     "repository": "Cygnus-devices/vendor_qcom_opensource_audio-hal_primary-hal",
     "target_path": "vendor/qcom/opensource/audio-hal/primary-hal",
-    "branch": "caf-12-sdm845"
+    "branch": "caf-13-sdm845"
   }
 ]
